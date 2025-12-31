@@ -56,7 +56,7 @@ Follow these steps to get the project running on your local machine.
 
 1. Clone the Repository
 ```Bash
-git clone [PASTE_YOUR_GITHUB_REPO_LINK_HERE]
+git clone: https://github.com/mufaddalvirpur/purple-merit-assessment
 cd purple-merit-assessment
 ```
 
