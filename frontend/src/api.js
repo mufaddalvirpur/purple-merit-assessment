@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'http://localhost:5000/api', // Point to your backend
+  baseURL: 'https://api-mufaddal.onrender.com/api', // Point to your backend
 });
 
 // Add a request interceptor to include the token
